@@ -1,5 +1,5 @@
-                           Squasher Readme
-                           ===============
+Squasher Readme
+===============
                            
 
 Introduction
